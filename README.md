@@ -1,6 +1,9 @@
 # asar-require
 
-Enable `require` to read scripts in [asar] packages.
+> forked from [electron/asar-require](https://github.com/electron/asar-require)
+
+Enable `require` to read scripts in [asar] packages.  
+A compiled version of [electron/asar-require](https://github.com/electron/asar-require)
 
 ## Usage
 
